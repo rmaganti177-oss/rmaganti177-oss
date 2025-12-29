@@ -55,7 +55,7 @@ Backend: FastAPI, Node.js, Express.js
 Database: PostgreSQL, MongoDB, MySQL
 Auth: Clerk, JWT Authentication
 APIs: RESTful APIs
-🤖 AI / ML & Neural Systems
+### 🤖 AI / ML & Neural Systems
 yaml
 Copy code
 Frameworks: PyTorch, TensorFlow, Scikit-learn
@@ -63,7 +63,7 @@ NLP: LangChain, Transformers, BERT, spaCy
 Models: Mistral-7B, Gemma-1B, Tacotron2, HiFi-GAN
 Vision: Detectron2, OpenCV, Mask R-CNN
 </td> <td width="50%" valign="top">
-💻 Programming Languages
+###💻 Programming Languages
 python
 Copy code
 languages = {
@@ -71,7 +71,7 @@ languages = {
     "proficient": ["JavaScript", "SQL"],
     "familiar": ["C++", "Java", "HTML", "CSS"]
 }
-☁️ Cloud & Tools
+###☁️ Cloud & Tools
 yaml
 Copy code
 Cloud: AWS, Azure
