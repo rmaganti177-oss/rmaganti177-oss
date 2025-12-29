@@ -43,38 +43,54 @@
 
 ## 🛠️ Technical Arsenal
 
+</div>
+
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🚀 Full-Stack Development
+<div align="left">
+
+**🚀 Full-Stack Development**
 ```yaml
 Frontend: React.js, HTML5, CSS3, JavaScript
 Backend: FastAPI, Node.js, Express.js
 Database: PostgreSQL, MongoDB, MySQL
 Auth: Clerk, JWT Authentication
-APIs: RESTful APIs
-### 🤖 AI / ML & Neural Systems
-yaml
-Copy code
+APIs: RESTful APIs, Integration
+```
+
+**🤖 AI/ML & Neural Systems**
+```yaml
 Frameworks: PyTorch, TensorFlow, Scikit-learn
 NLP: LangChain, Transformers, BERT, spaCy
 Models: Mistral-7B, Gemma-1B, Tacotron2, HiFi-GAN
 Vision: Detectron2, OpenCV, Mask R-CNN
-</td> <td width="50%" valign="top">
-###💻 Programming Languages
-python
-Copy code
+```
+
+</div>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<div align="left">
+
+**💻 Programming Languages**
+```python
 languages = {
     "expert": ["Python"],
     "proficient": ["JavaScript", "SQL"],
     "familiar": ["C++", "Java", "HTML", "CSS"]
 }
-###☁️ Cloud & Tools
-yaml
-Copy code
+```
+
+**☁️ Cloud & Tools**
+```yaml
 Cloud: AWS, Azure
 Databases: ChromaDB, Vector DBs
-Tools: Git, Docker, CUDA
+Tools: Git, CUDA, Docker
 Libraries: NumPy, Pandas, Matplotlib
+```
+
+</div>
