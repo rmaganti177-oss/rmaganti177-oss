@@ -29,13 +29,12 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🧠 **AI/ML Specialist** – Built agentic AI systems with **92% accuracy** and **40% hallucination reduction**
-- 🎯 **Performance-Driven** – Achieved **4.2/5 MOS** in neural TTS and **82.6% mAP** in document analysis
+- 🧠 **AI/ML Specialist** – Built agentic AI systems **
 - 💻 **Full-Stack Developer** – React, FastAPI, PostgreSQL, Authentication
-- 💡 **Problem Solver** – 300+ DSA problems solved
+
 - 🚀 **Innovation Focus** – LLMs, neural networks, intelligent system design
-- ⚡ **Fun Fact** – I reduce AI hallucinations faster than I drink coffee ☕🤖
-- 🏆 **Achievements** – 2nd place in Code-Voyage (300+ participants), NVIDIA DLI Certified
+
+
 
 <br clear="right"/>
 
