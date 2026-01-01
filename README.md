@@ -31,7 +31,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🧠 **AI/ML Specialist** – Built agentic AI systems **
-- 💻 **Full-Stack Developer** – React, FastAPI, PostgreSQL, Authentication
+- 💻 **Full-Stack Developer** – MongoDB ,Express ,React, Node.js , Python , Django,Flask
 
 - 🚀 **Innovation Focus** – LLMs, neural networks, intelligent system design
 
@@ -55,7 +55,7 @@
 **🚀 Full-Stack Development**
 ```yaml
 Frontend: React.js, HTML5, CSS3, JavaScript
-Backend: FastAPI, Node.js, Express.js
+Backend: Django, Node.js, Express.js
 Database: PostgreSQL, MongoDB, MySQL
 Auth: Clerk, JWT Authentication
 APIs: RESTful APIs, Integration
@@ -90,7 +90,7 @@ languages = {
 Cloud: AWS, Azure
 Databases: ChromaDB, Vector DBs
 Tools: Git, CUDA, Docker
-Libraries: NumPy, Pandas, Matplotlib
+Libraries: NumPy, Pandas, Matplotlib , Seaborne
 ```
 
 </div>
