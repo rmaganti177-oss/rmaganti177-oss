@@ -31,7 +31,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🧠 **AI/ML Specialist** – Built agentic AI systems **
-- 💻 **Full-Stack Developer** – MongoDB ,Express ,React, Node.js , Python , Django,Flask
+- 💻 **Full-Stack Developer** – MongoDB ,Express ,React, Node.js , Express , Python , Django,Flask ,Git ,Docker
 
 - 🚀 **Innovation Focus** – LLMs, neural networks, intelligent system design
 
